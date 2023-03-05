@@ -1,0 +1,1 @@
+give @s debug_stick{disk: 1b, CustomModelData: 1, Items: [], display: {Name: '{"translate": "item.disk.name","italic": false,"color": "white"}'}}

@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ barrel[open=false] run kill @e[type=interaction,tag=privacy-hitbox,limit=1,sort=nearest,distance=..0.5]

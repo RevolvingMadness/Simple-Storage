@@ -1,0 +1,21 @@
+[
+  {
+    "function": "minecraft:set_name",
+    "entity": "this",
+    "name": {
+      "text": "Next Disk (",
+      "italic": false,
+      "extra": [
+        {
+          "score": {
+            "name": "@s",
+            "objective": "next_disk"
+          }
+        },
+        {
+          "text": ")"
+        }
+      ]
+    }
+  }
+]

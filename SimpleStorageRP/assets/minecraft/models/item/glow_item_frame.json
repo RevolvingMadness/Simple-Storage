@@ -1,0 +1,16 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/glow_item_frame"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "item/wooden_storage_terminal"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "item/disk_drive"
+    }
+  ]
+}

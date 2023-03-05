@@ -1,0 +1,1 @@
+execute align xyz run summon interaction ~.5 ~ ~.5 {Tags:["privacy-hitbox"], width:1.001f, height:1.001f}

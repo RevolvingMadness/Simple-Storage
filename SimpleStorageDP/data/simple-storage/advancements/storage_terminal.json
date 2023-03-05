@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlocked": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "simple-storage:storage_terminal"
+      }
+    }
+  },
+  "rewards": {
+    "function": "simple-storage:terminal/craft"
+  }
+}

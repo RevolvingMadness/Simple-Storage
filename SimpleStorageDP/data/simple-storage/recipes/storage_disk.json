@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CPP", "PPP", "PPP"],
+  "key": {
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "C": {
+      "item": "copper_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book",
+    "count": 1
+  }
+}

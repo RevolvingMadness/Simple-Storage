@@ -1,0 +1,1 @@
+give @s glow_item_frame{CustomModelData: 1, display: {Name: '{"translate":"gui.storage_terminal.title","italic":false}'}, EntityTag: {Tags: ["terminal"], Item: {id: "minecraft:glow_item_frame", Count: 1b, tag: {CustomModelData: 1}}, Invulnerable: 1b, Invisible: 1b, Fixed: 1b, Silent: 1b}} 1

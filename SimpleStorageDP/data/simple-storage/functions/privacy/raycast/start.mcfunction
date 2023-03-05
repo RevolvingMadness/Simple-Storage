@@ -1,0 +1,1 @@
+execute anchored eyes run function simple-storage:privacy/raycast/loop

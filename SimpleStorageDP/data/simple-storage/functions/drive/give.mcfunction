@@ -1,0 +1,1 @@
+give @s glow_item_frame{CustomModelData: 2, display: {Name: '{"translate":"gui.disk_drive.title","italic": false}'}, EntityTag: {Tags: ["drive"], Item: {id: "minecraft:glow_item_frame", Count: 1b, tag: {CustomModelData: 2}}, Invulnerable: 1b, Invisible: 1b, Fixed: 1b, Silent: 1b}} 1
